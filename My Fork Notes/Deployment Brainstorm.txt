@@ -1,0 +1,8 @@
+Research Assistant and Github repo analyser
+
+GPU cloud for Code Llama uses
+Minimum PC specs = none ? (with the api?)
+
+How similar is this to Advanced Data Analysis?
+
+How do context windows affect the operations?
